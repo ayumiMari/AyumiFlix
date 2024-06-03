@@ -21,7 +21,7 @@ function Home() {
                     
                     <div className='tag'>
                         {filme.tags.map(tag => (
-                            <span key={tag} className='text-blue-700'> {tag} </span>
+                            <span key={tag} className='bg-blue-700 p-1 m-1 rounded-lg text-white'> {tag} </span>
                         ))}
                     </div>
                     </div>
