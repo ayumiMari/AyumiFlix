@@ -5,9 +5,11 @@ import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import PageNotFound from './pages/PageNotFound.jsx'
 import Filmes from './pages/Filmes.jsx'
-import Sobre from './pages/Sobre.jsx'
+import Sobre from './pages/Series.jsx'
 import Contato from './pages/Contato.jsx'
 import Home from './pages/Home.jsx'
+import Series from './pages/Series.jsx'
+import DetalhesFilme from './pages/DetalhesFilme.jsx'
 
 const router = createBrowserRouter(
   [
@@ -17,8 +19,10 @@ const router = createBrowserRouter(
       children: [
         {index: true, element: <Home/> },
         {path: "filmes", element: <Filmes/>},
-        {path: "sobre", element: <Sobre/>},
+        {path: "filmes/:id", element: <DetalhesFilme/>},
+        {path: "series", element: <Series/>},
         {path: "contato", element: <Contato/>},
+        
         {path: "*", element: <PageNotFound/>}
 
       ]

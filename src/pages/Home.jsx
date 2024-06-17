@@ -1,36 +1,35 @@
 import data from '../../articles.json'
 
 function Home() {
-    console.log(data)
     return ( 
-        <main>
-            <input type="text" name="busca" id="buscar" placeholder="Digite aqui sua busca"/>
+        <>
+            <input type="text" id="buscar" placeholder='Buscar uma notícia' />
             <div className='grid grid-cols-3 gap-4'>
-                {
-                    
-                data.map(filme => (
-                    <div className='card bg-ayumi' key={filme.title}>
-                    <h1>{filme.title}</h1>
-                    <img src={filme.image} alt={filme.title} />
+            {
+                data.map( (artigo, index) => (
+                    <div className='card overflow pb-10 px-3' key={index}>
+                        <h2>{artigo.title}</h2>
+                        <img className="h-96 w-full rounded-lg object-cover object-center mb-2" src={artigo.image} alt={artigo.title} />
+                        <div className='tags'>
+                            {artigo.tags.map( (tag, index) => (
+                                <span className="bg-ayumi p-1 m-1 object-center" key={index}>{tag}</span>
+                            ))}
+                        </div>
+                        <div className='texto '>
+                        {artigo.text.map( (paragrafo,index) => (
+                            <p key={index}>{paragrafo}</p>
+                        ))}
+                        
+                        </div>
 
-                    <div className='texto'>
-                        {filme.text.map(texto => (
-                            <p key={texto}>{texto}</p>
-                        ))}
                     </div>
                     
-                    <div className='tag'>
-                        {filme.tags.map(tag => (
-                            <span key={tag} className='bg-blue-700 p-1 m-1 rounded-lg text-white'> {tag} </span>
-                        ))}
-                    </div>
-                    </div>
-                ))}
+                ))
+            }
             </div>
-        </main>
-     );
+        </>
+    );
 }
 
 export default Home ;
-
 

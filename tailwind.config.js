@@ -8,9 +8,10 @@ export default {
     extend: {
       colors: {
         'primary-ayu': '#1552AA',
-        'ayumi': '#779ACE'
+        'ayumi': '#779ACE',
       }
     },
   },
-  plugins: [],
+
 }
+
