@@ -7,11 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        'primary-ayu': '#1552AA',
-        'ayumi': '#779ACE',
+        'azul-escuro': '#1552AA',
+        'azul-claro': '#779ACE',
       }
     },
   },
-
+  plugins: [],
 }
-

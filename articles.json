@@ -1,212 +1,59 @@
 [
     {
-    "title": "Novidades no mundo do cinema",
+    "title": "Divertidamente 2",
     "image": "image 25.png",
     "text": [
-    "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-    "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+        "Data de lançamento: 14 de junho de 2024",
+        "Divertida Mente 2: A emocionante sequência da história de Riley, agora na adolescência. Enquanto ela enfrenta mudanças, sua sala de controle mental passa por uma revolução. Novas emoções entram em cena, incluindo a temida Ansiedade. Prepare-se para risadas, lágrimas e muita diversão nesta jornada interior!"
     ],
-    "tags": ["cinema", "podcast"]
+    "tags": [""]
     },
     {
-    "title": "Discussões e análises sobre os filmes mais recentes",
+    "title": "Imaculada",
     "image": "public/image 19 (1).png",
     "text": [
-    "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-    "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+    "Data de lançamento: 30 de maio de 2024 ",
+
+    "Cecilia, uma jovem religiosa, se torna freira em um convento isolado na região rural italiana. Após uma gravidez misteriosa, Cecilia é atormentada por forças perversas, enquanto confronta segredos sombrios e horrores do convento."
+    
     ],
-    "tags": ["cinema", "discord"]
+    "tags": [""]
     },
     {
-    "title": "Desafio de criação cinematográfica",
+    "title": "O Auto da Compadecida 2",
     "image": "image 8.png",
     "text": [
-    "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-    "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+    "Data de lançamento: 25 de dezembro de 2024",
+
+    "Mais de vinte anos depois de O Auto da Compadecida (2000), João Grilo (Matheus Nachtergaele) e Chicó (Selton Mello) voltam para as telas brasileiras. O ator Luís Mirando também estará na produção, interpretando um personagem malandro que ensinou malandragens para João Grilo."
     ],
-    "tags": ["cinema", "desafio", "criação"]
+    "tags": [""]
     },
     {
-        "title": "Novidades no mundo do cinema",
+        "title": "É assim que acaba",
         "image": "public/image 26.png",
         "text": [
-        "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-        "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
+        "Data de lançamento: 21 de junho de 2024",
+        "Lily Bloom decide começar uma nova vida em Boston e tentar abrir o seu próprio negócio. Como consequência de sua mudança de vida, Lily acredita que encontrou o amor verdadeiro com Ryle, um charmoso neurocirurgião."
         ],
-        "tags": ["cinema", "podcast"]
+        "tags": [""]
         },
         {
-        "title": "Discussões e análises sobre os filmes mais recentes",
+        "title": "Star Wars: The Acolyte",
         "image": "public/image 24.png",
         "text": [
-        "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-        "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
+        "Série disponível em 4 de junho de 2024 ",
+        "Baseada na famosa franquia de George Lucas, a série Star Wars: The Acolyte se situa cerca de 100 anos antes dos eventos do filme Episódio I - A Ameaça Fantasma. Durante os últimos dias da Alta República, onde os Jedi estão alcançando seu auge e liderando a República em explorações com iniciativas galácticas uma jovem ex-padawan se vê obrigada a se reunir com seu mestre Jedi para investigar uma série de crimes. No caminho, eles deparam-se com forças mais sinistras do que esperavam, entre segredos e potências emergentes do lado negro nos últimos dias da época da Alta República, os Jedi são ameaçados por uma força determinada a aniquilá-los."
         ],
-        "tags": ["cinema", "discord"]
+        "tags": [""]
         },
         {
-        "title": "Desafio de criação cinematográfica",
+        "title": "Mufasa: O Rei Leão",
         "image": "public/image 21.png",
         "text": [
-        "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-        "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
+        "Data de lançamento: 19 de dezembro de 2024",
+        "Prólogo do live action de Rei Leão, produzido pela Disney e dirigido por Barry Jenkins, o longa contará a história de Mufasa e Scar antes de Simba. A trama tem a ajuda de Rafiki, Timão e Pumba, que juntos contam a lenda de Mufasa à jovem filhote de leão Kiara, filha de Simba e Nala. Narrado através de flashbacks, a história apresenta Mufasa como um filhote órfão, perdido e sozinho até que ele conhece um simpático leão chamado Taka – o herdeiro de uma linhagem real. O encontro ao acaso dá início a uma grande jornada de um grupo extraordinário de deslocados em busca de seu destino, além de revelar a ascensão de um dos maiores reis das Terras do Orgulho."
         ],
-        "tags": ["cinema", "desafio", "criação"]
-        },
-        {
-            "title": "Novidades no mundo do cinema",
-            "image": "xNSsIyZcbESWBm42VTo09zbjS6s.webp",
-            "text": [
-            "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-            "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
-            ],
-            "tags": ["cinema", "podcast"]
-            },
-            {
-            "title": "Discussões e análises sobre os filmes mais recentes",
-            "image": "pQFoHRmJLAlv5b2DNLGBISyxEuc.webp",
-            "text": [
-            "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-            "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
-            ],
-            "tags": ["cinema", "discord"]
-            },
-            {
-            "title": "Desafio de criação cinematográfica",
-            "image": "ara.png",
-            "text": [
-            "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-            "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
-            ],
-            "tags": ["cinema", "desafio", "criação"]
-            },
-            {
-                "title": "Novidades no mundo do cinema",
-                "image": "t.png",
-                "text": [
-                "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
-                ],
-                "tags": ["cinema", "podcast"]
-                },
-                {
-                "title": "Discussões e análises sobre os filmes mais recentes",
-                "image": "rC5RqXtFoTkBhNWE1dczwi4dZrX.webp",
-                "text": [
-                "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
-                ],
-                "tags": ["cinema", "discord"]
-                },
-                {
-                "title": "Desafio de criação cinematográfica",
-                "image": "ara.png",
-                "text": [
-                "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
-                ],
-                "tags": ["cinema", "desafio", "criação"]
-                },{
-                    "title": "Novidades no mundo do cinema",
-                    "image": "movie-deadpool.jpg",
-                    "text": [
-                    "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                    "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
-                    ],
-                    "tags": ["cinema", "podcast"]
-                    },
-                    {
-                    "title": "Discussões e análises sobre os filmes mais recentes",
-                    "image": "movie-guerra-civil.jpg",
-                    "text": [
-                    "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                    "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
-                    ],
-                    "tags": ["cinema", "discord"]
-                    },
-                    {
-                    "title": "Desafio de criação cinematográfica",
-                    "text": [
-                    "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                    "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
-                    ],
-                    "tags": ["cinema", "desafio", "criação"]
-                    },
-                    {
-                        "title": "Novidades no mundo do cinema",
-                        "image": "movie-deadpool.jpg",
-                        "text": [
-                        "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                        "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
-                        ],
-                        "tags": ["cinema", "podcast"]
-                        },
-                        {
-                        "title": "Discussões e análises sobre os filmes mais recentes",
-                        "image": "movie-guerra-civil.jpg",
-                        "text": [
-                        "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                        "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
-                        ],
-                        "tags": ["cinema", "discord"]
-                        },
-                        {
-                        "title": "Desafio de criação cinematográfica",
-                        "text": [
-                        "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                        "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
-                        ],
-                        "tags": ["cinema", "desafio", "criação"]
-                        },{
-                            "title": "Novidades no mundo do cinema",
-                            "image": "movie-deadpool.jpg",
-                            "text": [
-                            "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                            "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
-                            ],
-                            "tags": ["cinema", "podcast"]
-                            },
-                            {
-                            "title": "Discussões e análises sobre os filmes mais recentes",
-                            "image": "movie-guerra-civil.jpg",
-                            "text": [
-                            "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                            "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
-                            ],
-                            "tags": ["cinema", "discord"]
-                            },
-                            {
-                            "title": "Desafio de criação cinematográfica",
-                            "text": [
-                            "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                            "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
-                            ],
-                            "tags": ["cinema", "desafio", "criação"]
-                            },
-                            {
-                                "title": "Novidades no mundo do cinema",
-                                "image": "movie-deadpool.jpg",
-                                "text": [
-                                "Esta semana foi repleta de novidades emocionantes no mundo do cinema! Novos trailers, anúncios de elenco e detalhes dos bastidores têm deixado os fãs ansiosos para o que está por vir. Não perca nada do que está acontecendo no universo cinematográfico com as últimas atualizações.",
-                                "Confira o mais recente podcast dedicado ao cinema, onde especialistas discutem os lançamentos mais aguardados, as tendências da indústria e os bastidores das produções. Fique por dentro de todas as notícias quentes e análises aprofundadas sobre o mundo do entretenimento cinematográfico!"
-                                ],
-                                "tags": ["cinema", "podcast"]
-                                },
-                                {
-                                "title": "Discussões e análises sobre os filmes mais recentes",
-                                "image": "movie-guerra-civil.jpg",
-                                "text": [
-                                "Participe das discussões animadas sobre os filmes mais recentes na nossa comunidade do Discord! Todos os dias, os amantes do cinema se reúnem para trocar ideias, compartilhar opiniões e descobrir novas pérolas cinematográficas. Não perca a chance de fazer parte dessa comunidade apaixonada por cinema!",
-                                "Junte-se a nós no Discord e mergulhe em debates sobre os últimos lançamentos, clássicos cult e tudo mais que envolve o mundo do cinema. Não importa se você é um cinéfilo experiente ou apenas está começando a explorar esse universo fascinante - há sempre algo interessante acontecendo em nossa comunidade."
-                                ],
-                                "tags": ["cinema", "discord"]
-                                },
-                                {
-                                "title": "Desafio de criação cinematográfica",
-                                "text": [
-                                "Você tem talento para contar histórias através da lente da câmera? Então o Desafio de Criação Cinematográfica é para você! Participe deste desafio emocionante, onde cineastas aspirantes têm a chance de mostrar seu talento e criatividade.",
-                                "Ao longo de várias semanas, você terá a oportunidade de desenvolver seu próprio curta-metragem, explorando diferentes gêneros, técnicas de filmagem e narrativas. Receba orientação de profissionais do ramo, compartilhe seu progresso com outros cineastas e, no final, tenha seu trabalho avaliado por um júri de especialistas da indústria."
-                                ],
-                                "tags": ["cinema", "desafio", "criação"]
-                                }
-                            ]
+        "tags": [""]
+        }
+        ]
