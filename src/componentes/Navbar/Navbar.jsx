@@ -1,7 +1,9 @@
 import {Link} from 'react-router-dom'
 
+
 function Navbar() {
     return ( 
+        <>
         <nav>
             <ul className='flex gap-3' >
                 <li className='hover:underline'><Link to ="/">Home</Link></li>
@@ -11,6 +13,7 @@ function Navbar() {
                 
             </ul>
         </nav>
+        </>
      );
 }
 
