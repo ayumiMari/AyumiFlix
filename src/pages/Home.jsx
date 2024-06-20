@@ -17,25 +17,25 @@ function Home() {
     </div>
 </form>
 <br />
-<hr className="h-px m-2 border-0 bg-azul-escuro p-0 "></hr>
+<hr className="h-px m-2 border-0 bg-azul-escuro p-0 mx-10 "></hr>
 <br />
 <a href="#">
-        <p className=' text-azul-escuro dark:text-gray-400 font-bold text-2xl'>Filmes/séries que estão por vir</p>
+        <p className=' text-azul-escuro dark:text-gray-400 font-bold text-2xl mx-10'>Filmes/séries que estão por vir</p>
     </a>
     <br />
 
-            <div className='grid grid-cols-3 gap-4 overflow-x-scroll pb-10 hide-scroll-bar text-justify'>
+            <div className='grid grid-cols-3 gap-4 overflow-x-scroll pb-10 hide-scroll-bar '>
             {
                 data.map( (artigo, index) => (
                     <div className='card overflow pb-10 px-3 items-center' key={index}>
-                        <h2>{artigo.title}</h2>
-                        <img className="h-96 w-370 rounded-lg object-cover object-center mb-2" src={artigo.image} alt={artigo.title} />
+                        <h2 className='text-1xl font-bold text-center mx-auto'>{artigo.title}</h2>
+                        <img className="flex justify-center h-96 w-370 rounded-lg  mb-2 mx-auto" src={artigo.image} alt={artigo.title} />
                         <div className='tags'>
                             {artigo.tags.map( (tag, index) => (
-                                <span className="bg-ayumi p-1 m-1 object-center" key={index}>{tag}</span>
+                                <span className="bg-ayumi p-1 m-1" key={index}>{tag}</span>
                             ))}
                         </div>
-                        <div className='texto'>
+                        <div className='texto flex-grow-1 text-center mx-10'>
                         {artigo.text.map( (paragrafo,index) => (
                             <p key={index}>{paragrafo}</p>
                         ))}
@@ -48,7 +48,12 @@ function Home() {
                 
             }
             
-            
+            <br />
+        <a href="#">
+        <p className=' text-azul-escuro dark:text-gray-400 font-bold text-2xl mx-20 text-center'>Notícias</p>
+    </a>
+
+            <br />
             <a href="#" class="block max-w-sm p-6 bg-azul-claro border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Homem-Aranha 4 | Filmagens devem começar em janeiro de 2025 com Venom como vilão</h5>
             <a href="#">

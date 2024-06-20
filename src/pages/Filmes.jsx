@@ -34,11 +34,11 @@ function Filmes() {
     </div>
 </form>
 <br />
-<hr className="h-px m-2 border-0 bg-azul-escuro p-0 "></hr>
+<hr className="h-px m-2 border-0 bg-azul-escuro p-0 mx-10"></hr>
 <br />
 
     <a href="#">
-        <p className='font-normal text-azul-escuro dark:text-gray-400 text-2xl'>Filmes em Destaque</p>
+        <p className=' text-azul-escuro dark:text-gray-400 font-bold text-2xl mx-10'>Filmes em Destaque</p>
     </a>
 <br />
         <div className="listaFilmes flex flex-row gap-3 flex-wrap justify-center align-items-center space-x-10">
@@ -47,7 +47,7 @@ function Filmes() {
                 filmes.map(
                     filme => (
                         <div className="card-filme space-x-10 object-cover object-center shadow-xl shadow-blue-gray-900/50 " key={filme.id}>
-                            <img src={`${img_URL}${filme.poster_path}`}/>
+                            <img className="mx-1" src={`${img_URL}${filme.poster_path}`}/>
                             <h1>{filme.title}</h1>
                             <Link to={`${filme.id}`} className=" bg-azul-claro rounded-md ">Visualizar</Link>
                         </div>
@@ -59,9 +59,9 @@ function Filmes() {
         </div>
         <br />
         <a href="#">
-        <p className='font-normal text-azul-escuro dark:text-gray-400 text-2xl'>Lançamentos</p>
+        <p className=' text-azul-escuro dark:text-gray-400 font-bold text-2xl mx-10'>Lançamentos</p>
     </a>
-<hr className="h-px m-2 border-0 bg-azul-escuro p-0 "></hr>
+<hr className="h-px m-2 border-0 bg-azul-escuro p-0 mx-10"></hr>
 <br />
 <div className="listaFilmes flex flex-row gap-3 flex-wrap justify-center align-items-center space-x-10">
            
@@ -69,7 +69,7 @@ function Filmes() {
                filmes.map(
                    filme => (
                        <div className="card-filme space-x-10 object-cover object-center shadow-xl shadow-blue-gray-900/50" key={filme.id}>
-                           <img src={`${img_URL}${filme.poster_path}`}/>
+                           <img className="mx-1" src={`${img_URL}${filme.poster_path}`}/>
                            <h1>{filme.title}</h1>
                            <Link to={`${filme.id}`} className=" bg-ayumi">Saiba Mais</Link>
                        </div>
@@ -81,9 +81,9 @@ function Filmes() {
         </div>
         <br />
         <a href="#">
-        <p className='font-normal text-azul-escuro dark:text-gray-400 text-2xl'>Filmes variados</p>
+        <p className=' text-azul-escuro dark:text-gray-400 font-bold text-2xl mx-10'>Filmes variados</p>
     </a>
-<hr className="h-px m-2 border-0 bg-azul-escuro p-0 "></hr>
+<hr className="h-px m-2 border-0 bg-azul-escuro p-0 mx-10"></hr>
 <br />
 <div className="listaFilmes flex flex-row gap-3 flex-wrap justify-center align-items-center space-x-10">
            
@@ -91,7 +91,7 @@ function Filmes() {
                filmes.map(
                    filme => (
                        <div className="card-filme space-x-10 object-cover object-center shadow-xl shadow-blue-gray-900/50" key={filme.id}>
-                           <img src={`${img_URL}${filme.poster_path}`}/>
+                           <img className="mx-1" src={`${img_URL}${filme.poster_path}`}/>
                            <h1>{filme.title}</h1>
                            <Link to={`${filme.id}`} className=" bg-ayumi">Saiba Mais</Link>
                        </div>
@@ -99,7 +99,7 @@ function Filmes() {
                    )
                )
            }
-           
+
         </div>
         </>
 

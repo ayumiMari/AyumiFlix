@@ -14,7 +14,7 @@ function Contato() {
   </div>
 </form>
 <br />
-<hr className="h-px m-2 border-0 bg-azul-escuro p-0 "></hr>
+<hr className="h-px m-2 border-0 bg-azul-escuro p-0 mx-10"></hr>
 <br />
 
       <form class="max-w-sm mx-auto">
