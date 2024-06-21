@@ -46,8 +46,19 @@ function DetalhesFilme(){
 
         <br />
          <h1 className="font-bold text-2xl text-azul-escuro mx-10">Sinopse</h1>
-         <p className="mx-10">{filme.overview}</p>
-         
+         <p className="mx-10 ">{filme.overview}</p>
+         <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
     
         </>
     )

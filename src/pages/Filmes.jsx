@@ -41,13 +41,13 @@ function Filmes() {
         <p className=' text-azul-escuro dark:text-gray-400 font-bold text-2xl mx-10'>Filmes em Destaque</p>
     </a>
 <br />
-        <div className="listaFilmes flex flex-row gap-3 flex-wrap justify-center align-items-center space-x-10">
+        <div className="listaFilmes flex flex-row gap-3 flex-wrap justify-center align-items-center space-x-10 ">
            
             {
                 filmes.map(
                     filme => (
                         <div className="card-filme space-x-10 object-cover object-center shadow-xl shadow-blue-gray-900/50 " key={filme.id}>
-                            <img className="mx-1" src={`${img_URL}${filme.poster_path}`}/>
+                            <img className="mx-1 " src={`${img_URL}${filme.poster_path}`}/>
                             <h1>{filme.title}</h1>
                             <Link to={`${filme.id}`} className=" bg-azul-claro rounded-md ">Visualizar</Link>
                         </div>
@@ -71,7 +71,7 @@ function Filmes() {
                        <div className="card-filme space-x-10 object-cover object-center shadow-xl shadow-blue-gray-900/50" key={filme.id}>
                            <img className="mx-1" src={`${img_URL}${filme.poster_path}`}/>
                            <h1>{filme.title}</h1>
-                           <Link to={`${filme.id}`} className=" bg-ayumi">Saiba Mais</Link>
+                           <Link to={`${filme.id}`} className="bg-azul-claro rounded-md">Saiba Mais</Link>
                        </div>
            
                    )
@@ -91,9 +91,9 @@ function Filmes() {
                filmes.map(
                    filme => (
                        <div className="card-filme space-x-10 object-cover object-center shadow-xl shadow-blue-gray-900/50" key={filme.id}>
-                           <img className="mx-1" src={`${img_URL}${filme.poster_path}`}/>
+                           <img className="mx-1 " src={`${img_URL}${filme.poster_path}`}/>
                            <h1>{filme.title}</h1>
-                           <Link to={`${filme.id}`} className=" bg-ayumi">Saiba Mais</Link>
+                           <Link to={`${filme.id}`} className=" bg-azul-claro rounded-md">Saiba Mais</Link>
                        </div>
            
                    )
@@ -107,4 +107,3 @@ function Filmes() {
 }
 
 export default Filmes ;
-
