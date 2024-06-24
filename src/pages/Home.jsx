@@ -57,7 +57,7 @@ function Home() {
                 <a href="#" className="block max-w-sm p-6 bg-azul-claro border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Homem-Aranha 4 | Filmagens devem começar em janeiro de 2025 com Venom como vilão</h5>
                 <a href="#">
-                <img className="rounded-t-lg" src="public/Rectangle 18.png" alt="" />
+                <img className="rounded-t-lg" src="HomemAranha.png" alt="" />
                 </a>
                 <p className="font-normal text-black dark:text-gray-400">Ao que parece, o quarto filme do Homem-Aranha protagonizado por Tom Holland finalmente definiu uma data para começar seus trabalhos. Segundo o Production List, as filmagens começam em janeiro de 2025, em Los Angeles.
                 Boatos apontam também que Venom deve ser o vilão da trama. Além disso, Miles Morales pode ser finalmente introduzido ao MCU. Não foi divulgado, porém, o título oficial do filme, que também segue sem diretor e roteirista confirmados. Ainda segundo o site, o Demolidor e Wilson Fisk, o Rei do Crime, também podem estar no longa.</p>
@@ -66,7 +66,7 @@ function Home() {
                 <a href="#" className="block max-w-sm p-6 bg-azul-claro border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Homem-Aranha 4 | Filmagens devem começar em janeiro de 2025 com Venom como vilão</h5>
                 <a href="#">
-                <img className="rounded-t-lg" src="public/Rectangle 19.png" alt="" />
+                <img className="rounded-t-lg" src="Wolverine.png" alt="" />
                 </a>
                 <p className="font-normal text-black dark:text-gray-400">Ao que parece, o quarto filme do Homem-Aranha protagonizado por Tom Holland finalmente definiu uma data para começar seus trabalhos. Segundo o Production List, as filmagens começam em janeiro de 2025, em Los Angeles.
                 Boatos apontam também que Venom deve ser o vilão da trama. Além disso, Miles Morales pode ser finalmente introduzido ao MCU. Não foi divulgado, porém, o título oficial do filme, que também segue sem diretor e roteirista confirmados. Ainda segundo o site, o Demolidor e Wilson Fisk, o Rei do Crime, também podem estar no longa.</p>
@@ -75,7 +75,7 @@ function Home() {
                 <a href="#" className="block max-w-sm p-6 bg-azul-claro border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Homem-Aranha 4 | Filmagens devem começar em janeiro de 2025 com Venom como vilão</h5>
                 <a href="#">
-                <img className="rounded-t-lg" src="public/Rectangle 24.png" alt="" />
+                <img className="rounded-t-lg" src="Rectangle 24.png" alt="" />
                 </a>
                 <p className="font-normal text-black dark:text-gray-400">Ao que parece, o quarto filme do Homem-Aranha protagonizado por Tom Holland finalmente definiu uma data para começar seus trabalhos. Segundo o Production List, as filmagens começam em janeiro de 2025, em Los Angeles.
                 Boatos apontam também que Venom deve ser o vilão da trama. Além disso, Miles Morales pode ser finalmente introduzido ao MCU. Não foi divulgado, porém, o título oficial do filme, que também segue sem diretor e roteirista confirmados. Ainda segundo o site, o Demolidor e Wilson Fisk, o Rei do Crime, também podem estar no longa.</p>
