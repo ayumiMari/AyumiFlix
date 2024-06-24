@@ -9,7 +9,6 @@ function Filmes() {
     const img_URL = 'https://image.tmdb.org/t/p/w300/'
 
     useEffect(() => {
-
         fetch('https://api.themoviedb.org/3/movie/popular?api_key=7c572a9f5b3ba776080330d23bb76e1e')
             .then(response => response.json())
             .then(response => setFilmes(response.results))
